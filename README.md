@@ -49,22 +49,28 @@ Due to GitHub file size limitations, some project resources are hosted on Google
 Restaurant-Operations-Analytics/
 │
 ├── csv/
-├── ROS_Dataset/
-├── KNIME Output files/
-├── ROS_DDL_MySQL.sql
-├── ROS_DDL_PostgreSQL.sql
-├── ROS-Data Dictionary
-├── Data Cleaning Matrix
-├── Data Anomalies-ROS
-├── Data Generation Strategy-ROS
-├── Data Transformation Tracker-ROS
+│
+├── Data Anomalies- ROS.xlsx
+├── Data Cleaning Matrix.xlsx
+├── Data Generation Strategy - ROS.xlsx
+├── Data Transformation Tracker - ROS.xlsx
+├── Data_Cleaning_Tracker_Milestone7.xlsx
+│
+├── Milestone 14 & 15 - KNIME Workflow Logic Document
+├── Milestone_16_Work Flow Testing Report.docx
+├── Milestone-17_Workflow_Testing_Report-ROS.xlsx
+├── Milestone-18_Analytics_Report_ROS_Master.xlsx
+│
 ├── POWER BI Analytics Framework.pbix
-├── Milestone 18_Analytics_Report_ROS_Master
-├── Solution Design Document
-├── Validation_Report
+│
+├── ROS-Data Dictionary.xlsx
+├── ROS_DDL_MySQL.sql
+│
+├── Solution Design Document.pdf
+├── Validation_Report.txt
+│
 └── README.md
 ```
-
 
 ---
 
