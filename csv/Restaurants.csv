@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,client_id,country,currency_id,city,address,post_code,cuisine_type,opening_date
+1,Brennan Coventry #1,1,UK,1,Coventry,198 King Street,E17 8AB,Chinese,2022-02-03
+2,Brennan Leicester #2,1,UK,1,Leicester,198 King Street,N19 2AB,Spanish,2022-05-27
+3,Caldwell Coventry #1,2,UK,1,Coventry,45 Park Lane,W11 7AB,Chinese,2022-04-05
+4,Caldwell Nottingham #2,2,UK,1,Nottingham,129 King Street,W5 1AB,Spanish,2023-05-28
+5,Davies Nottingham #1,3,UK,1,Nottingham,90 Park Lane,EC12 6AB,Korean,2022-07-02
+6,Davies London #2,3,UK,1,London,55 King Street,EC16 4AB,Italian,2022-09-16
+7,Ellison Leeds #1,4,UK,1,Leeds,214 Station Road,WC17 9AB,Italian,2022-03-07
+8,Ellison Coventry #2,4,UK,1,Coventry,76 Park Lane,EC17 3AB,Korean,2022-06-16
+9,Foster Glasgow #1,5,UK,1,Glasgow,36 King Street,NW3 8AB,Spanish,2022-08-08
+10,Foster Belfast #2,5,UK,1,Belfast,32 Main Road,EC9 6AB,Mexican,2022-08-17
+11,Griffin Newcastle #1,6,UK,1,Newcastle,229 Park Lane,EC5 1AB,Spanish,2022-10-12
+12,Griffin Cardiff #2,6,UK,1,Cardiff,36 Park Lane,N2 2AB,Chinese,2022-04-15
+13,Hartley Belfast #1,7,UK,1,Belfast,21 Main Road,E10 5AB,Thai,2022-07-18
+14,Hartley London #2,7,UK,1,London,80 Park Lane,SW9 7AB,Japanese,2023-01-27
+15,Ingram Sheffield #1,8,UK,1,Sheffield,220 Main Road,EC17 7AB,American,2023-05-26
+16,Ingram Nottingham #2,8,UK,1,Nottingham,27 Station Road,WC3 2AB,American,2022-06-12
+17,Jardine Birmingham #1,9,UK,1,Birmingham,224 Station Road,NW14 1AB,Japanese,2023-03-31
+18,Jardine Newcastle #2,9,UK,1,Newcastle,21 King Street,EC20 2AB,Spanish,2022-07-11
+19,Kingsley Coventry #1,10,UK,1,Coventry,202 Park Lane,WC4 1AB,Chinese,2023-06-08
+20,Kingsley Sheffield #2,10,UK,1,Sheffield,38 Park Lane,EC19 7AB,American,2022-08-12
+21,Lockhart Newcastle #1,11,UK,1,Newcastle,242 Main Road,SE17 8AB,Mediterranean,2022-01-18
+22,Lockhart Edinburgh #2,11,UK,1,Edinburgh,36 Park Lane,EC19 8AB,Mediterranean,2023-03-11
+23,Morrison Liverpool #1,12,UK,1,Liverpool,158 Main Road,NW1 5AB,Japanese,2022-05-10
+24,Morrison Bristol #2,12,UK,1,Bristol,17 Station Road,WC14 8AB,Spanish,2022-10-03
+25,Nash London #1,13,UK,1,London,24 Park Lane,NW9 3AB,Japanese,2022-02-25
+26,Nash Liverpool #2,13,UK,1,Liverpool,234 Main Road,E7 4AB,Indian,2022-04-06
+27,Ogilvie Leicester #1,14,UK,1,Leicester,234 Station Road,WC10 9AB,Spanish,2023-01-10
+28,Ogilvie Leicester #2,14,UK,1,Leicester,18 High Street,NW9 9AB,French,2023-03-25
+29,Pemberton Sheffield #1,15,UK,1,Sheffield,234 Park Lane,EC1 6AB,Mediterranean,2022-11-05
+30,Pemberton Coventry #2,15,UK,1,Coventry,136 Park Lane,NW9 4AB,Japanese,2022-09-25
+31,Quinn Leeds #1,16,UK,1,Leeds,34 Station Road,EC5 4AB,Indian,2023-01-14
+32,Quinn Glasgow #2,16,UK,1,Glasgow,185 High Street,SE8 5AB,Mediterranean,2022-10-02
+33,Redmond Belfast #1,17,UK,1,Belfast,1 Main Road,W7 5AB,Thai,2023-05-29
+34,Redmond Leeds #2,17,UK,1,Leeds,105 Park Lane,WC9 1AB,Mexican,2022-05-01
+35,Stanley Sheffield #1,18,UK,1,Sheffield,210 Park Lane,WC1 4AB,Chinese,2023-03-30
+36,Stanley Coventry #2,18,UK,1,Coventry,168 Main Road,SE11 8AB,American,2022-08-22
+37,Travers Cardiff #1,19,UK,1,Cardiff,48 Main Road,SW18 9AB,British,2022-04-06
+38,Travers Sheffield #2,19,UK,1,Sheffield,152 Station Road,N1 7AB,Japanese,2022-04-20
+39,Underwood Coventry #1,20,UK,1,Coventry,246 Park Lane,NW7 5AB,Mexican,2022-05-25
+40,Underwood Newcastle #2,20,UK,1,Newcastle,240 Main Road,NW14 3AB,British,2022-12-08
+41,Sharma Kolkata #1,21,India,4,Kolkata,171 High Street,399128,Korean,2022-10-08
+42,Patel Ahmedabad #1,22,India,4,Ahmedabad,212 Station Road,996724,British,2022-06-23
+43,Reddy Ahmedabad #1,23,India,4,Ahmedabad,229 Station Road,353345,Mexican,2022-10-21
+44,Nair Pune #1,24,India,4,Pune,142 High Street,174648,Mediterranean,2022-04-09
+45,Kapoor Hyderabad #1,25,India,4,Hyderabad,131 Park Lane,270512,Korean,2022-10-06
+46,Mehta Delhi #1,26,India,4,Delhi,79 High Street,935644,American,2022-04-24
+47,Iyer Bengaluru #1,27,India,4,Bengaluru,111 King Street,396400,American,2022-04-22
+48,Chowdhury Chennai #1,28,India,4,Chennai,182 Station Road,234620,Indian,2022-03-10
+49,Bose Pune #1,29,India,4,Pune,182 Park Lane,248249,British,2022-05-22
+50,Verma Mumbai #1,30,India,4,Mumbai,7 Station Road,418920,Korean,2022-02-03

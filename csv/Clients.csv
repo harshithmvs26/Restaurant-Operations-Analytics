@@ -1,0 +1,31 @@
+client_id,client_name,country,currency_id,subscription_id,activation_date,inactivation_date,status,contact_email,contact_phone
+1,Brennan Group,UK,1,1,2023-01-30,,Active,contact@brennangroup.com,05956 720 3228
+2,Caldwell Restaurants Ltd,UK,1,1,2022-09-11,,Active,contact@caldwellrestaurantsltd.com,01961 437 5724
+3,Davies Hospitality,UK,1,1,2022-12-27,,Active,contact@davieshospitality.com,09505 622 3656
+4,Ellison Dining Co,UK,1,1,2022-02-01,,Active,contact@ellisondiningco.com,01316 494 8638
+5,Foster Food Group,UK,1,1,2022-08-19,,Active,contact@fosterfoodgroup.com,06797 677 4058
+6,Griffin Eats Group,UK,1,2,2022-04-18,,Active,contact@griffineatsgroup.com,02818 268 3546
+7,Hartley Restaurants,UK,1,2,2023-01-22,2023-07-13,Inactive,contact@hartleyrestaurants.com,06111 276 6033
+8,Ingram Hospitality,UK,1,2,2022-12-09,,Active,contact@ingramhospitality.com,03783 111 2868
+9,Jardine Dining Group,UK,1,2,2023-01-06,,Active,contact@jardinedininggroup.com,03640 674 5246
+10,Kingsley Restaurants,UK,1,2,2023-05-19,,Active,contact@kingsleyrestaurants.com,07845 956 6259
+11,Lockhart Group,UK,1,2,2022-02-02,,Active,contact@lockhartgroup.com,06155 222 5491
+12,Morrison Eats,UK,1,2,2023-06-24,,Active,contact@morrisoneats.com,09254 837 5045
+13,Nash Dining Co,UK,1,2,2022-03-20,,Active,contact@nashdiningco.com,07138 104 4639
+14,Ogilvie Hospitality,UK,1,3,2023-04-20,,Active,contact@ogilviehospitality.com,06441 509 4842
+15,Pemberton Restaurants,UK,1,3,2022-02-21,2023-06-19,Inactive,contact@pembertonrestaurants.com,02659 671 2013
+16,Quinn Group,UK,1,3,2022-08-04,,Active,contact@quinngroup.com,01342 993 2871
+17,Redmond Dining,UK,1,3,2022-11-27,,Active,contact@redmonddining.com,06263 983 4494
+18,Stanley Hospitality,UK,1,3,2023-05-07,,Active,contact@stanleyhospitality.com,03580 800 9671
+19,Travers Group,UK,1,3,2022-10-07,,Active,contact@traversgroup.com,01940 458 8202
+20,Underwood Eats,UK,1,3,2022-02-03,,Active,contact@underwoodeats.com,05603 276 2408
+21,Sharma Foods Ltd,India,4,3,2023-01-04,,Active,contact@sharmafoodsltd.com,+91 85833 92616
+22,Patel Hospitality,India,4,3,2022-07-23,,Active,contact@patelhospitality.com,+91 95435 13602
+23,Reddy Dining Group,India,4,3,2022-10-05,,Active,contact@reddydininggroup.com,+91 78254 74529
+24,Nair Restaurants,India,4,4,2022-07-28,,Active,contact@nairrestaurants.com,+91 73642 97856
+25,Kapoor Eats Group,India,4,4,2022-06-06,,Active,contact@kapooreatsgroup.com,+91 89930 75208
+26,Mehta Hospitality,India,4,4,2022-09-16,,Active,contact@mehtahospitality.com,+91 97394 31754
+27,Iyer Dining Co,India,4,4,2023-05-27,2023-11-08,Inactive,contact@iyerdiningco.com,+91 79453 99321
+28,Chowdhury Group,India,4,4,2022-08-05,,Active,contact@chowdhurygroup.com,+91 95732 12707
+29,Bose Restaurants,India,4,4,2022-06-13,,Active,contact@boserestaurants.com,+91 92599 69394
+30,Verma Eats,India,4,4,2023-02-01,,Active,contact@vermaeats.com,+91 71403 92212

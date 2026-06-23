@@ -1,0 +1,5 @@
+subscription_id,display_name,subscription_name,product_code,subscription_active,subscription_code,description,Cost,No Of Users,Frequency
+1,Free,Free,ROS_ERP,True,ERP_FRE,Free Subscription. Given when users want to try the portal,0.0,10,"Monthly, Quarterly, Annually"
+2,Fremium,Fremium,ROS_ERP,True,ERP_FRM,Free Subscription. Given when users want to try the portal and also have certain critical features,49.0,25,"Monthly, Quarterly, Annually"
+3,Premium,Premium,ROS_ERP,True,ERP_PRE,Subscription with free and premium features,199.0,50,"Monthly, Quarterly, Annually"
+4,Enterprise,Enterprise,ROS_ERP,True,ERP_ENT,Enterprise wide features of the subscription,499.0,200,"Monthly, Quarterly, Annually"
